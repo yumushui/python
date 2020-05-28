@@ -23,6 +23,13 @@ python_func.py         -- this file is check python functions
 #####  the 5 title
 ######  the 6 title
 ```
+#  the 1 title
+##  the 2 title
+###  the 3 title
+####  the 4 title
+#####  the 5 title
+######  the 6 title
+
 ### 2 list 
 ```
 - text 01
@@ -33,6 +40,14 @@ python_func.py         -- this file is check python functions
 2. file 02
 3. file 03
 ```
+- text 01
+- text 02
+- text 03
+
+1. file 01
+2. file 02
+3. file 03
+
 ### 3 link and picture
 ```
 link
@@ -53,18 +68,21 @@ quote
 > I have a dream that one day.
 ```
 > I have a dream that one day.
+> All people can have one life.
+
 
 ### 5 bold and italic
 ```
-bold
+italic
 *need bold words*
 
-italic
+bold
 **need italic words**
 
 ```
-*need bold words*
-**need italic words**
+*need italic words*
+
+**need  bold words**
 
 ### 5 code quote
 ```
