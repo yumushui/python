@@ -1,0 +1,27 @@
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+
+print ("the local git resposity connect the github resporsity have two method:")
+print ("the fisrt method is : git colone")
+print ("in local directory ,do nothing ,only exuete the command :")
+print ("git clone git@github.com:yumushui/python.git")
+print ("")
+
+print ("the second method is : git remote")
+print ("in local directory ,you should create a empty repository ")
+print ("git init local_github")
+print ("vim new_file")
+print ("git add new_file")
+print ("git commit -m 'Add a new_file .'")
+print ("git status")
+print ("")
+print ("add remote use command:")
+print ("git remote -v")
+print ("git remote add origin git@github.com:yumushui/python.git")
+print ("git remote -v")
+print ("git branch -av")
+print ("git push -u origin master")
+print ("in fact ,you should excute the command:")
+print ("git pull origin master --allow-unrelated-histories")
+print ("git push -u origin master")
+print ("")
