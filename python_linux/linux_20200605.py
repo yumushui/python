@@ -247,3 +247,52 @@ if __name__ == '__main__'
 
 
        ''')
+
+
+''' python work env '''
+print("The python in different work place")
+print("1 you can use  pyenv control different version python")
+print('''
+install pyenv
+pip install pyenv
+pyenv --help
+
+pyenv install --list
+pyenv install -v 3.6.0
+pyenv install -v 2.7.13
+
+pyenv versions
+
+pyenv global 3.6.0
+pyenv version
+
+pyenv global 2.7.13
+pyenv version
+
+pyenv uninstall 2.7.10
+
+
+
+      ''')
+print("2 use virtualenv control differ project")
+print('''
+pip install virtualenv
+pip install pyenv-virtualen
+pyenv virtualenv 2.7.13  first_project
+pyenv virtualenv 2.7.13  second_project
+
+pyenv virtualenvs
+pyenv active first_project
+
+pyenv activate first_project
+pip install flask==0.8
+pyenv deactivate
+pip install flask==0.9
+
+pyenv virtualenv-delete first_project
+
+
+
+
+
+       ''')
