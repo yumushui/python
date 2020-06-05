@@ -2,6 +2,9 @@
 # -*- conding:utf-8 -*-
 
 ''' three python inter tool '''
+print("--------------------------------")
+print("## 1 ##  python three inter method")
+print("")
 print("1 make a small download server")
 print("in pyton2")
 print("python -m SimpleHTTPServer")
@@ -21,6 +24,9 @@ print("python -c 'import paramiko'")
 
 
 ''' the usage of pip '''
+print("--------------------------------")
+print("## 2 ##  pip advanced method")
+print("")
 print(" 1 install pip")
 print("pip install -u pip")
 print("")
@@ -63,6 +69,9 @@ print("")
 
 
 '''The python code IDE  '''
+print("--------------------------------")
+print("## 3 ##  pip code IDE")
+print("")
 print("1 ptyhon IDE : vim")
 print('''excute the python one command ''')
 '''
@@ -104,6 +113,9 @@ print("python IDE : PyCharm")
 print("")
 
 ''' Python inter active progame '''
+print("--------------------------------")
+print("## 4 ##  pip code accessorial IDE")
+print("")
 print("1 python shell")
 print("python")
 print("2 ipython")
@@ -173,6 +185,9 @@ print('''
        ''')
 
 ''' the python Debugger '''
+print("--------------------------------")
+print("## 5 ##  python Debug Tool")
+print("")
 print("The python Debugger : gdb , ipdb")
 print('''
     # pdb
@@ -203,6 +218,9 @@ print('''
 ''')
 
 ''' the python code style check '''
+print("--------------------------------")
+print("## 6 ##  python style and format Tool")
+print("")
 print("The python code style check tool")
 print(" PEP8 , pycodestyle , autopep8 ")
 print('''
@@ -250,6 +268,9 @@ if __name__ == '__main__'
 
 
 ''' python work env '''
+print("--------------------------------")
+print("## 7 ##  python workplace and env")
+print("")
 print("The python in different work place")
 print("1 you can use  pyenv control different version python")
 print('''
