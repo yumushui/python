@@ -167,3 +167,10 @@ https://github.com/zwdnet/PythonPractice
 结课测试： 关于python的这些知识，你都掌握了吗？
 
 ```
+
+# Python Knowledge
+
+Python Knowledge Graph
+
+![python_knowledge_map](https://github.com/yumushui/python/blob/master/jingxiao_python_core_tech/python_knowledge_map.png  "python_knowledge_map")
+
